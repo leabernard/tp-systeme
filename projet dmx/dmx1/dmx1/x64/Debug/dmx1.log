@@ -1,0 +1,60 @@
+﻿  Reading Qt configuration (C:/Qt/5.14.2/msvc2017_64/bin/qmake)
+  main.cpp
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(10): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(10): error C3861: 'LoadLibrary' : identificateur introuvable
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(12): error C2059: erreur de syntaxe : 'if'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(13): error C2039: 'GetProcAddress' : n'est pas membre de '`global namespace''
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(13): error C2001: saut de ligne dans la constante
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(14): error C2001: saut de ligne dans la constante
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(16): error C2143: erreur de syntaxe : absence de ')' avant ';'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(18): error C3927: '->' : l'utilisation d'un type de retour de fin n'est pas autorisée après un déclarateur qui n'est pas un déclarateur de fonction
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(18): error C3613: type de retour manquant après '->' ('int' pris par défaut)
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(18): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(18): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'Caption'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(21): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(21): error C2065: 'DHC_OPEN' : identificateur non déclaré
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(21): error C3861: 'DasUsbCommand' : identificateur introuvable
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(22): error C3927: '->' : l'utilisation d'un type de retour de fin n'est pas autorisée après un déclarateur qui n'est pas un déclarateur de fonction
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(22): error C3613: type de retour manquant après '->' ('int' pris par défaut)
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(22): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(22): error C2086: 'int lblResultOpenDMX' : redéfinition
+  c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(18): note: voir la déclaration de 'lblResultOpenDMX'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(22): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'Caption'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(26): error C2059: erreur de syntaxe : 'if'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(27): error C2143: erreur de syntaxe : absence de ';' avant '{'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(27): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(49): error C3927: '->' : l'utilisation d'un type de retour de fin n'est pas autorisée après un déclarateur qui n'est pas un déclarateur de fonction
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(49): error C3613: type de retour manquant après '->' ('int' pris par défaut)
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(49): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(49): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'Enabled'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(50): error C2059: erreur de syntaxe : '}'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(50): error C2143: erreur de syntaxe : absence de ';' avant '}'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(52): error C2653: 'TForm1' : n'est pas un nom de classe ni d'espace de noms
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(52): error C2143: erreur de syntaxe : absence de ';' avant '{'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(52): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(63): error C2653: 'TForm1' : n'est pas un nom de classe ni d'espace de noms
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(63): error C2065: 'TObject' : identificateur non déclaré
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(63): error C2065: 'Sender' : identificateur non déclaré
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(63): error C2065: 'TCloseAction' : identificateur non déclaré
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(63): error C2065: 'Action' : identificateur non déclaré
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(63): warning C4229: anachronisme utilisé : modificateurs de données ignorés
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(63): error C2182: 'FormClose' : utilisation non conforme du type 'void'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(64): error C2448: 'FormClose' : l'initialiseur de style fonction semble être une définition de fonction
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(74): error C2653: 'TForm1' : n'est pas un nom de classe ni d'espace de noms
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(74): error C2065: 'TObject' : identificateur non déclaré
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(74): error C2065: 'Sender' : identificateur non déclaré
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(74): warning C4229: anachronisme utilisé : modificateurs de données ignorés
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(74): error C2182: 'Timer1Timer' : utilisation non conforme du type 'void'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(75): error C2448: 'Timer1Timer' : l'initialiseur de style fonction semble être une définition de fonction
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(79): error C2653: 'TForm1' : n'est pas un nom de classe ni d'espace de noms
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(79): error C2065: 'TObject' : identificateur non déclaré
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(79): error C2065: 'Sender' : identificateur non déclaré
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(79): warning C4229: anachronisme utilisé : modificateurs de données ignorés
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(79): error C2182: 'btnForceUSBClick' : utilisation non conforme du type 'void'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(80): error C2448: 'btnForceUSBClick' : l'initialiseur de style fonction semble être une définition de fonction
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(84): error C2653: 'TForm1' : n'est pas un nom de classe ni d'espace de noms
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(84): error C2065: 'TObject' : identificateur non déclaré
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(84): error C2065: 'Sender' : identificateur non déclaré
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(84): warning C4229: anachronisme utilisé : modificateurs de données ignorés
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(84): error C2182: 'TrackBar1Change' : utilisation non conforme du type 'void'
+c:\users\léa bernard\source\repos\dmx1\dmx1\main.cpp(85): error C2448: 'TrackBar1Change' : l'initialiseur de style fonction semble être une définition de fonction
