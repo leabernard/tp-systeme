@@ -1,0 +1,5 @@
+﻿  dmx1.cpp
+c:\users\léa bernard\source\repos\projet dmx\dmx1\dmxtest\dmx1.cpp(18): warning C4101: 'i' : variable locale non référencée
+  main.cpp
+  Génération de code en cours...
+  DMXTest.vcxproj -> C:\Users\Léa bernard\source\repos\projet dmx\dmx1\x64\Debug\DMXTest.exe
