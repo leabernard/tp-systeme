@@ -1,0 +1,5 @@
+﻿  sendToDatabase.cpp
+c:\users\febvin\source\repos\rgnh-rgrz--main\sendtodatabase\qtwidgetsapplication1\qtwidgetsapplication1\sendtodatabase.cpp(100): warning C4552: '*' : résultat de l'expression non utilisé
+c:\users\febvin\source\repos\rgnh-rgrz--main\sendtodatabase\qtwidgetsapplication1\qtwidgetsapplication1\sendtodatabase.cpp(103): warning C4552: '*' : résultat de l'expression non utilisé
+  moc_sendToDatabase.cpp
+  QtWidgetsApplication1.vcxproj -> C:\Users\Febvin\source\repos\rgnh-rgrz--main\sendToDatabase\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe
